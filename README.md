@@ -1,16 +1,14 @@
-1.- Install TypeScritp
+1.- Install TypeScritp:
   npm install -g typescript
 
-2.- Check version
+2.- Check version:
   tsc --version
 
-3.- Create tsconfig.json
+3.- Create tsconfig.json:
   tsc --init
 
-4.- Trasnspile code
+4.- Trasnspile code:
   tsc name_file.ts
 
-5.- Check the result
-
-6.- Run TypeScritp files. 
+5.- Run TypeScritp files:
   node name_file.js
